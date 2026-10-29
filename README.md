@@ -1,8 +1,15 @@
-# Hi, I'm H. Nosrati 👋
+# Hi, I'm Hossein Nosrati 👋
 
-**Electrical & Telecommunications Engineer | Digital Signal Processing (DSP) | Edge AI & Biosensing**
+**Electrical & Telecommunications Engineer | Digital Signal Processing (DSP) | TinyML & Biosensing**
 
-I specialize in designing deterministic, resource-constrained **Digital Signal Processing (DSP)** and **Edge Computing** pipelines for wearable healthcare devices, wireless sensing, and real-time audio systems. My work focuses on bridging statistical signal processing theory with bare-metal embedded firmware execution.
+I design deterministic, resource-constrained **Digital Signal Processing (DSP)** and **Edge AI** pipelines for wearable healthcare devices, wireless RF sensing, and real-time audio systems. My work focuses on bridging classical signal processing theory with bare-metal embedded firmware execution.
+
+---
+
+### 📄 Publications & Preprints
+
+* **Hossein Nosrati**, *"Low-Latency Deterministic Arrhythmia Telemetry via Zero-Phase IIR Filtering and Static Decision Forests on Resource-Constrained Edge Microcontrollers,"* ResearchGate Preprint, Oct. 2026.  
+  [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16561.75366-0284c7.svg)](https://doi.org/10.13140/RG.2.2.16561.75366) [![ResearchGate](https://img.shields.io/badge/ResearchGate-View%20Preprint-00ccbb.svg)](https://doi.org/10.13140/RG.2.2.16561.75366) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -38,6 +45,7 @@ I specialize in designing deterministic, resource-constrained **Digital Signal P
 
 ---
 
-### 📫 Connect with Me
+### 🌐 Academic Portfolio & Preprints
+* **Personal Academic Website:** [hnosrati0-source.github.io](https://hnosrati0-source.github.io)
+* **ResearchGate Profile & Preprint:** [doi.org/10.13140/RG.2.2.16561.75366](https://doi.org/10.13140/RG.2.2.16561.75366)
 * **Email:** hnosrati0@gmail.com
-* **GitHub:** [github.com/hnosrati0-source](https://github.com/hnosrati0-source)
